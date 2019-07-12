@@ -107,6 +107,13 @@ If want to rush the area and really can’t be bothered to do the maps yourself,
 groups of facebook (or discord) to see if you can leech a wanted poster.
 They usually go fairly cheap (for map leeching standards)
 
+**Side note**: As mentioned in the comments, doing trains in Gnawnia Express Station are also a source of fool's gold:
+[train rewards](https://mhwiki.hitgrab.com/wiki/index.php/Gnawnian_Express_Station#Completing_a_Train_Ride_and_Collecting_Rewards).
+That area also requires a law trap, and the S.L.A.C. isn't really winning any prizes there either, but could be interesting
+to come back to later with a better setup. You still might want to consider getting a (couple of) train badges before
+heading to Fort Rox, as they give you a more beneficial resource exchange rate in the shops. Check the Fort Rox and
+Gnawnia Express Station guides (when they come out) for more info
+
 ## Wanted posters
 
 As mentioned above, you can earn fool’s gold by finishing Wanted Posters.
