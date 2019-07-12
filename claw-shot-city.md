@@ -14,6 +14,7 @@ maintained in [github](https://github.com/bavovanachte/mh-guide-contributions/bl
 
 Claw Shot City is the first stop in a series of hunting areas following the “Wild West” theme.
 It introduces a new power type: “Law”, used extensively in the areas that follow.
+
 Hunting here allows you to unlock access to [Fort Rox](https://mhwiki.hitgrab.com/wiki/index.php/Fort_Rox)
 
 ## TL;DRs
@@ -23,27 +24,24 @@ Hunting here allows you to unlock access to [Fort Rox](https://mhwiki.hitgrab.co
 * Off you go. Gather 25 fool’s gold (maybe you have some from events already) and buy the Fort Rox Battle
   Summons to gain access to Fort Rox.
 
-**TL;DR - 2**: I want to do it {devs, nature, god} intended it
+**TL;DR - 2**: I want to do it the way {devs, nature, god} intended it
 
 * Buy S.L.A.C.
-* Grind out the fool’s gold for S.L.A.C. II and the Claw Shot Base (see notes below).
-  Law type traps are needed in the following area(s), and S.L.A.C.II provides a significant boost over S.L.A.C.
+* Grind out the fool’s gold for S.L.A.C. II and maybe Claw Shot Base (see notes below).
+  Law type traps are used in the following area(s) as well, and S.L.A.C.II provides a significant boost over S.L.A.C.
 * Obtain Fort Rox Battle Summons for 25 fool’s gold to gain access to Fort Rox
 
-**TL;DR - 3**: I’m in a hurry, but not very rich
+**TL;DR - 3**: I’m in a hurry
 
 * Buy S.L.A.C.
 * Obtain Fort Rox Battle Summons for 25 fool’s gold to gain access to Fort Rox
 
-  Note: This means you’ll be gathering meteorite pieces in fort rox using S.L.A.C. or your best arcane trap
-  (ACRONYM probably) instead of using the S.L.A.C.II. As you seem to be poor, you can’t buy crescent/moon cheese from
-  the marketplace. You could argue that you’d otherwise have done the grind in CSC, and are saving valuable hunts
-  this way. Consider boosting your catch rate in Fort Rox - day using charms/auras
-
-**TL;DR - 4**: I’m in a hurry, and loaded
-
-* Same as TL;DR - 3, only in the next stage you’ll be buying your Crescent / Moon cheese from the MP, so the meteorite
-  pieces gathering is limited to only those needed to repair the wall
+  This means you won't have S.L.A.C. II to help you in Fort Rox. During the Fort Rox day phase, Law power type is also
+  recommended. If you choose not to get S.L.A.C. II, it means you'll either be using normal S.L.A.C. or your best arcane
+  trap. A common argument is that the decreased catch rate there doesn't really weigh up against the grind for
+  S.L.A.C. II, especially if you can boost your catch rate using charms/auras. Additionally, if you can spare the gold,
+  you can consider buying Moon/Crescent cheese to limit the Day phase to only gathering meteorite pieces for repairing
+  your wall.
 
 ## Cheeses and mouse pool
 
@@ -102,10 +100,11 @@ Asides from getting fool’s gold from events, there are 2 “reliable” ways o
    * **Wanted posters**. An undusted Bounty Reward will give you between 15 and 20 fool’s gold. The wanted posters are
      relatively short (especially if you have a deputy). More info on these in a section below
 
-
 General consensus seems to be that doing wanted posters is a more reliable way of getting your fool’s gold. Of course,
 the fool’s gold from normal hunting comes “for free”, the only thing to decide is whether to use Super|brie+ or not.
-
+Accurate numbers for the fool's gold drop rate with S.L.A.C. are a bit hard to come by, as the data on Jack's tools is
+likely "tainted" by hunts with more powerful setups. Here is the link if you want to check anyway:
+[Jack's Looter - Fool's gold](https://mhhunthelper.agiletravels.com/loot.php?item=57&timefilter=all_time)
 
 If want to rush the area and really can’t be bothered to do the maps yourself, you could always check one of the mapping
 groups of facebook (or discord) to see if you can leech a wanted poster.
@@ -119,22 +118,21 @@ The mechanism behind this is similar to normal maps with a couple of differences
    * Only 5 mice: 4 accomplices and 1 ringleader
    * You first need to catch the 4 accomplices before you get a shot at the ringleader
    * You can only take 1 other hunter along on this “map”
-   * This “map” takes up a separate map slot. You can still do a normal or event map in parallel
+   * This “map” takes up a separate map slot: you can still do a normal or event map in parallel
 
 Just like normal maps, these can be dusted in order to double the rewards (including the Fool’s gold).
-Dusting these maps is not considered “worth it”, but by all means decide for yourself:
+Dusting these maps is generally not considered “worth it”, but by all means decide for yourself:
 
-   * [Bounty reward](https://mhhunthelper.agiletravels.com/converter.php?item=1745)
-   * [Rare Bounty reward](https://mhhunthelper.agiletravels.com/converter.php?item=1767)
+   * [Jack's Converter - Bounty reward](https://mhhunthelper.agiletravels.com/converter.php?item=1745)
+   * [Jack's Converter - Rare Bounty reward](https://mhhunthelper.agiletravels.com/converter.php?item=1767)
 
 Sealed wanted posters are dropped by the Bounty Hunter mouse. A
 [Sheriff's Badge Charm](https://mhwiki.hitgrab.com/wiki/index.php/Sheriff%27s_Badge_Charm) will guarantee the catch and
 the poster drop, but won’t affect the attraction rate. These charms are a rare drop of the Bounty Hunter himself, but
 also check the wiki link for alternative sources.
 
-Note, you can only have one sealed wanted poster in your possession.
-The Bounty Hunter mouse won’t drop any if you already have one.
-
+Note, you can only have one sealed wanted poster in your possession. The Bounty Hunter mouse won’t drop any if you
+already have one.
 
 When you open a poster, you get assigned randomly one of 6 types of posters (as described in the
 [wiki](https://mhwiki.hitgrab.com/wiki/index.php/Wanted_Poster))
@@ -144,18 +142,15 @@ When you open a poster, you get assigned randomly one of 6 types of posters (as 
 The adventure is fairly self-explanatory. You need to finish one of each wanted poster type (there are 6).
 The reward isn’t very exciting (some gold and some points).
 
-
 As the type of wanted poster is chosen randomly when you open it, it could take some time to finish the adventure.
 On the facebook mapping groups you’ll sometimes find people selling specific types of wanted posters, to help those
 wanting to finish the adventure as soon as possible.
-
 
 ## Why you would come back
 
 At some point, you’ll have moved past the area and you’ll have upgraded your law trap.
 You’ll still gather fool’s gold, though (through events, by hunting mice for maps, …).
 There are a couple of other things you can spend this currency on:
-
 
    * Crates: There are 5 crates available in the general store containing resources for areas ranked Lord/Lady or below.
      At the time of writing these are:
