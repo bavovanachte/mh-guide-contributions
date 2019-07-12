@@ -13,7 +13,7 @@ maintained in [github](https://github.com/bavovanachte/mh-guide-contributions/bl
 ## Summary:
 
 Claw Shot City is the first stop in a series of hunting areas following the “Wild West” theme.
-It introduces a new power type: “Law”, used extensively in the areas that follow.
+It introduces a new power type: Law, used extensively in the areas that follow.
 
 Hunting here allows you to unlock access to [Fort Rox](https://mhwiki.hitgrab.com/wiki/index.php/Fort_Rox)
 
@@ -76,14 +76,10 @@ can skip over this section. For those who don’t:
   [Super Cactus](https://mhwiki.hitgrab.com/wiki/index.php/Super_Cactus_Charm) charm. The catch is that it’ll only
   provide this boost when used in Claw Shot City.
 
-Unless you’re gathering fool’s gold through map leeching, you’ll need at least the S.L.A.C. The S.L.A.C.II purchase
-choice depends on your personal goals/situation: see the TL;DR section at the top.
-
-
 As for the Claw Shot Base, I don’t see any reason for buying it. Sure, it will boost your catch rate here, but the
 moment you have enough fool’s gold to get the base, you’re already 75% to getting the S.L.A.C. II, so you might want to
-get that instead and move on to Fort Rox. Next time you’re here, you’ll probably have a stronger Law trap anyway
-(and therefore no need for the base).
+get that instead and move on to Fort Rox, especially since it won't work there.
+Next time you’re here, you’ll probably have a stronger Law trap anyway (and therefore no need for the base).
 
 ## Collecting fool’s gold
 
@@ -102,9 +98,10 @@ Asides from getting fool’s gold from events, there are 2 “reliable” ways o
 
 General consensus seems to be that doing wanted posters is a more reliable way of getting your fool’s gold. Of course,
 the fool’s gold from normal hunting comes “for free”, the only thing to decide is whether to use Super|brie+ or not.
-Accurate numbers for the fool's gold drop rate with S.L.A.C. are a bit hard to come by, as the data on Jack's tools is
-likely "tainted" by hunts with more powerful setups. Here is the link if you want to check anyway:
-[Jack's Looter - Fool's gold](https://mhhunthelper.agiletravels.com/loot.php?item=57&timefilter=all_time)
+In order to get a general idea of how much fool's gold you'll gather by normal hunting, you can check the "Rate per catch"
+for your cheese type from [Jack's Looter - Fool's gold](https://mhhunthelper.agiletravels.com/loot.php?item=57&timefilter=all_time)
+and multiply that with your catch rate (check CRE). An example setup of S.L.A.C. + Aqua base (50% CR) would net you about 0.15
+fools gold per hunt when hunting with Super|brie+ (taken over long periods of hunting: Pyrite and Prospector are relatively rare)
 
 If want to rush the area and really can’t be bothered to do the maps yourself, you could always check one of the mapping
 groups of facebook (or discord) to see if you can leech a wanted poster.
