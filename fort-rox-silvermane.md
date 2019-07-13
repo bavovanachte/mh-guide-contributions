@@ -43,21 +43,28 @@ The fort has five separate areas you can upgrade.  The wall, ballista, cannon, m
 
 The HUD will light up the “Upgrade” button during Daytime whenever you have enough supplies, so you don’t need to be too meticulous about checking the requirements.   If you want to, though, you can click Upgrade anytime, day or night, and look to see where you stand on supplies.   Note that you can only upgrade during the Day!
 
+![Alt](/img2.png "")
+
 > **IMPORTANT TIP!**
 >
 > A note on upgrading the wall.  When you start with the basic wall, you’ll notice it takes 50 meteorite pieces to build a 50 health wall. When you upgrade, though, no meteorite pieces are used!  Your wall still has 50 health but you’ve raised the max to 100.  This means you’ll need 50 more meteorite pieces to fully heal the wall before you can go into the Night once more.   You can enter the wall anytime, though, even at 1 health if you really want to.
+
+![Alt](/img3.png "")
 
 All ballista effects are immediately active. There’s no need to do anything other than sit back and reap the benefits of making the Twilight-Midnight areas just a little bit easier.
 Ballista 1 will increase your catch rate by approx x1.5 for Reaper's Perch trap or similar.
 Ballista 2 gives around a 40-50% chance of automatically catching any Werewolf encountered.
 Ballista 3 will automatically catch the Nightmancer mouse, which is encountered approx 5% at Twilight, and 10% at Midnight.
 
+![Alt](/img4.png "")
 
 Like the Ballista, nothing special to do here other than enjoy the benefits of making the Utter Darkness and First Light areas just a bit easier to get through.   Nightfire is encountered approx 10% at Utter Darkness, and 20-24% at First Light.
 
+![Alt](/img5.png "")
 
 Who doesn’t like taking less damage?
 
+![Alt](/img6.png "")
 
 Upon building the mage tower, you will gain 5 Mana.  The choice is yours to activate or not.  This is a similar mechanic to the lantern oil, in that you will get double loot drops and is also required to upgrade the tower.
 
