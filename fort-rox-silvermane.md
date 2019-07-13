@@ -219,11 +219,12 @@ Some special notes on the new mice, some is a repeat some is new:
 
 I know it’s a 4S (Super Small Sample Size), but here’s my experiences in each area. This data in the chart below represents two full run throughs from day to dawn.
 
-
+![Alt](/img8.png "")
 
 Too small?  Check my FB page: https://www.facebook.com/1044840372252800/photos/a.1219740341429468.1073741829.1044840372252800/1223813834355452/?type=3&theater
 Cheese does seem to make a difference!  Check out these two horntracker screens side by side. Bird drops and Dawn Dust both tripled when using Moon cheese!
 
+![Alt](/img9.png "")
 
 > **POWER PLAY TIP***
 > Still stuck on the Battering Ram? Want to just get him once to finish off your collection?  One tip provided by the forums is to finish your run through to daylight again, then use all but two of your meteorite pieces to craft crescent cheese.  Next, heal your wall for two points.  Enter Twilight, and hope you catch him. If you miss, you’ll be bumped back to Daytime again. Do a hunt for a few pieces of meteorite to heal your wall, and try again.   Yes, this is a lot of work, but this method means you’re only losing 2-3 meteorite pieces each hunt instead of dozens.
