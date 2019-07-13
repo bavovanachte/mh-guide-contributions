@@ -88,15 +88,16 @@ And now some discussion on Wall Health.  The wall starts out at a mere 50 health
 At the beginning of each hunt, your workers are busy trying to repair the damage before the attack comes. If you’ve got the tower activated and your wall isn’t at full health you’ll gain one point. Yay!  Next, as the mice come to attack you, they can get weakened by crossing the moat, and they’ll do less damage. Yay!  So that’s how it works in a nutshell.
 
 A fully upgraded Fort that’s taken 100 points of damage would look like this:
-Before clicking the horn, it’s at 250.  Click the horn…
-Tower fixes some damage. Now you’re at 251.
-Mice get weakened crossing the moat, and instead of 5 damage only do 3. Now you’re at 248.
 
+  - Before clicking the horn, it’s at 250.  Click the horn…
+  - Tower fixes some damage. Now you’re at 251.
+  - Mice get weakened crossing the moat, and instead of 5 damage only do 3. Now you’re at 248.
 
 ## PART F4 --- NightTime
 
 Night is a dangerous time!  You need to hide behind the walls you’ve built, and wait for 130 attacks (hunts) which progress at the top of the HUD.  As long as you capture the mice, the wall will not be damaged.  But if you miss….
 
+![Alt](/img7.png "")
 
 It seems like every mouse that you FTC will do a minimum of 3 damage, giving you a grey box.  If the mouse steals from you, a Red Box means you’ll get 5 damage to your wall.   The exception is  the battering ram, which does 15 damage *EVERY ENCOUNTER*.  That’s right, even if you catch him you still take the damage. The only way to avoid the battering ram is to use special cheese like the crescent or moon cheeses. (Similar to the Shadow Stalker in the Labyrinth avoids GG.)
 
@@ -104,7 +105,7 @@ Of interesting note that simply doesn’t make sense to me...and FTA means no mi
 
 Assuming you don’t reach dawn, once your wall has been destroyed, you’ll pass out unconscious from the assault and wake up with a new day and a damaged wall.
 
-“The hordes of mice overran my fort walls, crumbling them to rubble. My fellow hunters found me unconscious near the battlements in the morning.”
+*“The hordes of mice overran my fort walls, crumbling them to rubble. My fellow hunters found me unconscious near the battlements in the morning.”*
 
 You’ll need to repair the wall by either spending meteorite pieces (or have an upgraded tower), plus upgrade any defenses, and prepare for the next onslaught.
 
@@ -118,15 +119,17 @@ To survive the night, you need to spend 130 hunts during the night to get the Mo
 
 ### PART 4.5 -- Hunting the Mice
 
-Daytime  -- Length:  Any     Trap:  Law
+#### Daytime  -- Length:  Any     Trap:  Law
+
 The daytime mice are busy little worker mice who go around picking up meteorite pieces for you to loot.  Nothing much else to say about them.  Be sure to arm a law trap!
 
-Twilight   -- Length:  35 hunts. (130-96)   Trap:  Shadow
-Werewolves: This area is mostly werewolves, which drop Howlite, Mana, and meteorite pieces as loot. If you FTC one of them, then your wall will be hit for 3-5 damage.
+#### Twilight   -- Length:  35 hunts. (130-96)   Trap:  Shadow
 
-NightMancer Mouse FTC will extend the night by 3 hunts. This makes dawn harder to reach!  You cannot go past 130 hunts for the whole night, but you can be pushed back from one stage to an earlier one.
+__Werewolves__: This area is mostly werewolves, which drop Howlite, Mana, and meteorite pieces as loot. If you FTC one of them, then your wall will be hit for 3-5 damage.
 
-Battering Ram Mouse FTC damages your wall by 15. Ouch!  This guy doesn’t like the light, so be sure to use Moon/Crescent if you want to avoid this mouse
+__NightMancer Mouse__ FTC will extend the night by 3 hunts. This makes dawn harder to reach!  You cannot go past 130 hunts for the whole night, but you can be pushed back from one stage to an earlier one.
+
+__Battering Ram Mouse__ FTC damages your wall by 15. Ouch!  This guy doesn’t like the light, so be sure to use Moon/Crescent if you want to avoid this mouse
 
 Please note that leaving the area does NOT reset the timeline. Much like the iceberg, you’ll come back right where you left off.
 
@@ -136,30 +139,31 @@ Please note that leaving the area does NOT reset the timeline. Much like the ice
 > While the Moon Cheese offers a “near perfect” attraction rate, the Crescent cheese is much cheaper, but with a reduction in attraction.    HornTracker also shows a consistently better loot drop when using Moon Cheese (no surprise since it takes SB to make.)
 
 
-Midnight   -- Length:  25 hunts  (95-70)   Trap:  Shadow
+#### Midnight   -- Length:  25 hunts  (95-70)   Trap:  Shadow
+
 As you enter Midnight, the mice become a mixture of eight mice weak to shadow (but normal to arcane)  and four mice weak to arcane (and normal with shadow), plus the Battering Ram.  My suggestion is to stick with the best shadow trap you have.  The pushback given by the NightMancer is not worth the extra loot drops given by the Gunslinger and NightWatcher.
 
+#### Pitch Black   -- Length:  10 hunts. (69-60)  Trap:  Arcane
 
-Pitch Black   -- Length:  10 hunts. (69-60)  Trap:  Arcane
 Upon entering Pitch Black, you’ll find a notice that tells you now is the time to arm Arcane. All the same mice are present, plus three new ones. This brings the mix to eight Shadow and seven Arcane, plus the battering ram.  However, now we have the NightFire mouse arriving, which does tons of damage compared to the battering ram so the choice is yours...damage or push back?  General feedback from the community is to switch to Arcane the moment you step into Pitch.
-
 
 > **POWER PLAY TIP**
 >
 > When you miss the Nightmancer (and you will), he can push you out of Pitch and back into Midnight. Watch your trap setup!  You’ll need to go back to Shadow for a hunt or three.
 
-
 > **DECISION TIME**
 >
 > For those advanced players with all your defenses built up, you’ll notice one in particular.  The Mage Tower moves you two hunts along the path with each hunt and gives bonus loot. Yet PitchBlack is the shortest section with loot of all kinds available.  To activate, or not?? That’s up to you. My recommendation is to turn off the Tower for those ten hunts….but that’s just me. :)
 
-Utter Darkness   -- Length:  25 hunts. (59-36)  Trap:  Arcane
+#### Utter Darkness   -- Length:  25 hunts. (59-36)  Trap:  Arcane
+
 Still learning about this area. It seems the mice here are the same as in Pitch Black, but there is a population shift towards the Nightfire and other more difficult mice will be found in abundance.
 
-First Light   -- Length:  35 hunts. (35-Dawn)   Trap:  Arcane
+#### First Light   -- Length:  35 hunts. (35-Dawn)   Trap:  Arcane
+
 With first light, the Werewolves finally flee for home, and now there are only arcane mice around. They’re tough, though, so be prepared for a hard fought battle to reach the final dawn.
 
-(Props to Benjamin Moomaw and Janette King for being the first ones I heard of to get to First Light...paving the way for the rest of us!!  Note that Ben did it with a Level 2 Wall/Tower and Level 1 for Moat, Cannon, and Ballista, while armed with Candy charms and the Grand Arcanum trap.  So don’t feel like you have to have the Zokor traps.)
+*(Props to Benjamin Moomaw and Janette King for being the first ones I heard of to get to First Light...paving the way for the rest of us!!  Note that Ben did it with a Level 2 Wall/Tower and Level 1 for Moat, Cannon, and Ballista, while armed with Candy charms and the Grand Arcanum trap.  So don’t feel like you have to have the Zokor traps.)*
 
 Please make note of that rotten evil Nightmancer, who pushes you back in time by 3 hunts with each FTC. These numbers above are accurate when you first enter Night, they will change based on how many Nightmancers you miss.  This guy can even push you back into a different timeframe, so be careful of the trap setup, should you be pushed between Pitch and Twilight!
 
@@ -169,7 +173,7 @@ My second “bail out” was after I had 15 mana and 36 howlite, so I upgraded t
 
 ## PART F5 --- Dawn
 
-Congrats to Bryan Lye for being the first to pave the way through Dawn!
+*Congrats to Bryan Lye for being the first to pave the way through Dawn!*
 
 And now you’ve finally made it here too, great job!  You’ll find three mice: The battering ram, the Night Guardian, and the Monster of the Meteor. The damage mechanics stay the same  at first, but with miss of the Monster, the damage of every mouse in the area goes up an extra 100%. (You’ll get a box explaining this in game.)
 
