@@ -79,6 +79,47 @@ Apart from these, store-bought and Super|brie+ work as well, but are not advised
 
 ## Day phase: Collecting meteorite pieces
 
+Day phase is where you start out. All mice here are law type and drop Meteorite Pieces, which you'll need for 2 reasons:
+
+  - Crafting Crescent or Moon cheese
+  - Repairing your wall.
+
+You'll come back here often. The idea is that you gather Meteorite Pieces here, "spend" them during nighttime
+(hunt with the in the form of cheese or watch mice destroy your wall) and then start the process all over.
+
+As you start out, the first thing you'll have to do is get the first wall upgrade. It'll cost you 50 meteorite pieces,
+which will go directly in your 50HP wall. Then, gather some more meteorite pieces to craft a batch of Crescent/Moon to
+start off your first Night run. You don't need much (go with 20, why not) for the first run, as you'll retreat as soon
+as you've gathered 1 Howlite to get the first Balista upgrade (this will significantly boost the awful catchrate you
+get on the first run)
+
+So, I've mentioned retreating. During the night phase you can retreat to day whenever you want, without losing the wall
+HP you have left. When doing your first upgrades, you'll want to make use of this by retreating whenever you have enough
+materials to get your next upgrades. The moment you make it past Pitch and you're collecting Bloodstones you might want
+to consider finishing your run instead. More on that in the section on Night.
+
+> Sounds grindy. How do I speed this up?
+>
+> There are a couple of alternative sources for Meteorite Pieces that may be useful, depending on your financial situation:
+>
+>   - **Buying Meteorite Pieces from the Kings Cart** for 1 KC a piece. There isn't really a reliable way to get more
+>     King's Credits, so this is not really a sustainable way of getting your materials.
+>   - **Buying Crescent/Moon from the Marketplace**: A fairly reliable way of getting your cheese and only having to
+>     gather Meteorite Pieces for repairing the wall. Note that the average gold per hunt you get is not very high
+>     ([CRE][CRE] can calculate that for you), so it's still likely going to be a net loss goldwise
+>   - **Fort Rox maps**. [Normal treasure chests](https://mhhunthelper.agiletravels.com/converter.php?item=2292) will
+>     net you 25 Meteorite Pieces on average, the
+>     [rare variant](https://mhhunthelper.agiletravels.com/converter.php?item=2294) 50. More on maps later.
+>   - **Trading in Howlite**: The Fort Rox General Store allows you to trade in 1 Howlite against 2
+>     (or 3 if you have a train badge) Meteorite Pieces. As Howlite is also needed to perform most of the upgrades,
+>     you might want to use this strategy with restraint.
+>   - Honorable mention: **Daily Gifts**: Meteorite Pieces regularly get picked by the devs as daily gifts. Not a
+>     reliable source, but it's always a good idea to find some more buddies to trade gifts with. Just don't create a
+>     new post for it on Reddit, use
+>     [this thread](https://www.reddit.com/r/mousehunt/comments/c6iyt8/northern_hemisphere_summer_2019_findafriend_team/)
+>     instead
+
+
 ## Night phase: Collecting howlite and bloodstone
 
 ## Dawn phase: Collecting Dawn dust
