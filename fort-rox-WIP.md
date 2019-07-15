@@ -132,7 +132,42 @@ to consider finishing your run instead. More on that in the section on Night.
 
 ## Dawn phase: Collecting Dawn dust
 
-## Heart of the meteor: Collecting Dawn dust
+You’ll find three mice here : Monster of the Meteor, Night Guardian and Battering Ram (if not hunting with Moon/Crescent).
+The damage mechanics stay the same at first, but each catch of the Monster will increase the damage of every mouse by
+an extra 100%. You can find a table detailing the damage per rage level [in the wiki][dawn-damage].
+
+E.g. The first time you miss the Monster, the damage of both him and Night Guardian will go from 3 points to 6 points.
+The next time, 9 points. Then 12. You get it.
+If for some reason you're not hunting with Crescent or Moon: Battering Ram damage is not affected by this multiplier.
+
+[Shielding charms][shielding-charm], if you have any, may be useful here as they prevent red boxes (FTC with mice stealing
+supplies) which cause more damages. For reference: at rage level 10, a normal FTC causes 33 damage, a red box FTC does 50.
+
+The Monster of the Meteor and Night Guardian mice drop Dawn Dust, which is used for 2 things:
+
+  - Building the new traps: Droid Archmagus and Interdimensional Crossbow Trap. The parts needed to build these are
+    obtained either as rare drops or by buying them in the General Store in exchange for Dawn Dust (you'll need 500
+    dust per trap)
+    A couple of drop rates (! per catch, multiply this by your overall catch rate):
+
+    - Silver Bolt: 7.5 % with Crescent ([the data][bolt-drop-rate])
+    - Animatronic Bird: 1% with Crescent ([the data][bird-drop-rate])
+    - Dawn dust: roughly 3 dust per catch with Crescent ([the data][dust-drop-rate])
+
+  - Craft Sunrise cheese to catch Heart of the Meteor (see next section). Costs you 25 Dawn Dust and 10 pieces will
+    guarantee a catch.
+
+> Sounds grindy. How do I speed this up?
+>
+> - If you have the gold for it, you don't really need to gather any dawn dust.
+>   Animatronic Bird, Silver Bolt and Sunrise cheese are all available on the Marketplace.
+> - Baitkeep or Ultimate charms will allow you to reduce the amount of Sunrise cheese you need.
+>   Not many hunters with the rank of Baron(ess) have any in their posession, though.
+> - You might take your chances with less than 10 Sunrise cheese. 10 will guarantee a catch, but each Sunrise
+>   hunt increases your chances of a successful catch. If you choose to go down this (risky) road, be prepared to buy
+>   them on the Marketplace if it turns out you didn't get enough. More info in the next section.
+
+## Heart of the meteor: Getting the Meteor Prison Core trap
 
 ## More on maps
 
@@ -163,5 +198,10 @@ case you don't have it yet.
 
 ## Why you would come back
 
+[shielding-charm]: https://mhwiki.hitgrab.com/wiki/index.php/Shielding_Charm
+[dust-drop-rate]: https://mhhunthelper.agiletravels.com/loot.php?item=78&timefilter=all_time
+[bird-drop-rate]: https://mhhunthelper.agiletravels.com/loot.php?item=209&timefilter=all_time
+[bolt-drop-rate]: https://mhhunthelper.agiletravels.com/loot.php?item=177&timefilter=all_time
+[dawn-damage]: (https://mhwiki.hitgrab.com/wiki/index.php/Fort_Rox#Wall_Damage_--_Dawn)
 [map-groups]: https://mhwiki.hitgrab.com/wiki/index.php/Communities#Map_groups
 [CRE]: https://tsitu.github.io/MH-Tools/cre.html
