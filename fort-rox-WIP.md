@@ -134,7 +134,7 @@ to consider finishing your run instead. More on that in the section on Night.
 
 You’ll find three mice here : Monster of the Meteor, Night Guardian and Battering Ram (if not hunting with Moon/Crescent).
 The damage mechanics stay the same at first, but each catch of the Monster will increase the damage of every mouse by
-an extra 100%. You can find a table detailing the damage per rage level [in the wiki][dawn-damage].
+an extra 100%. You can find a table detailing the damage per rage level [in the wiki][dawn-damage] .
 
 E.g. The first time you miss the Monster, the damage of both him and Night Guardian will go from 3 points to 6 points.
 The next time, 9 points. Then 12. You get it.
