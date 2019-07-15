@@ -11,6 +11,14 @@ maintained in [github](https://github.com/bavovanachte/mh-guide-contributions/bl
 
 ## Summary:
 
+Fort Rox is the area in Varmint valley following Fort Rox and Gnawnian Express Station, and keeps with the Wild West theme.
+You're building and upgrading a fort by day in order to properly defend it against hordes of mice by night.
+
+The area is really all about the fort upgrades. Even with better than average traps, you'll have some lousy catchrates
+at the start, but you'll be able to boost them by upgrading your wall, cannon, moat,...
+
+When you're done with the area, you'll have 3 new traps and a ticket to a new area: Queso Canyon.
+
 ## TL;DRs
 
   - Gather meteorite pieces during day to repair your wall and craft Cresent/Moon cheese
@@ -128,10 +136,32 @@ to consider finishing your run instead. More on that in the section on Night.
 
 ## More on maps
 
+I strongly recommend doing maps in this area for a number of reasons:
+
+- They provide a steady supply of Meteorite Pieces and Tower Mana. Not enough to get by on maps alone, but they give a
+  nice boost
+- They give a chance of dropping Portal parts to get to the Heart of the meteor. Aside from buying them on the Marketplace,
+  maps are the only way of obtaining these.
+- They don't require any special hunting strategies. Sometimes, maps will have some tricky mice that prevent you from
+  advancing in the area. Not the case here: normal hunting should allow you to get all of the mice (especially if you're
+  hunting in a team)
+
+I would recommend starting maps as soon as possible to increase your odds of getting Portal parts. That may be a bit
+tricky at first, as maps contain mice in all phases (Day, Night and Dawn). If you don't have friends to help you out,
+you could check the [map groups][map-groups] to either leech a fort rox map, or find other hunters in that area
+interested in doing maps together.
+
+An interesting strategy for getting the Portal parts (you could sell them on the Marketplace) is to finish a Fort Rox
+map by yourself (leave one easy mouse uncaught) and give away the 4 remaining hunter slots on your map but asking them
+to send you back any Portal parts they may have received in exchange. This can be an interesting way of making some of
+the money back you spent on Crescent cheese from the Marketplace, or optimize your chances of getting a Portal part in
+case you don't have it yet.
+
 ## The new traps
 
 ## Adventure
 
 ## Why you would come back
 
+[map-groups]: https://mhwiki.hitgrab.com/wiki/index.php/Communities#Map_groups
 [CRE]: https://tsitu.github.io/MH-Tools/cre.html
