@@ -51,9 +51,9 @@ If you (like many other hunters) haven't, you have 2 main options:
 
 Some numbers extracted from CRE (assuming Gouda, LGS, Aqua base and no charms):
 
-  - S.L.A.C. II: 59.72%
-  - S.L.A.C.: 40.39%
-  - ACRONYM: 47.48%
+  - S.L.A.C. II: ~60% ( [CRE link][slac2-setup] )
+  - S.L.A.C.: ~40% ( [CRE link][slac-setup])
+  - ACRONYM: ~47% ( [CRE link][acronym-day-setup])
 
 **Night**
 
@@ -198,6 +198,9 @@ case you don't have it yet.
 
 ## Why you would come back
 
+[slac2-setup]: https://tsitu.github.io/MH-Tools/cre.html?location=Fort%20Rox&phase=Day&cheese=Crescent&empowered=No&weapon=S.L.A.C.%20II&base=Aqua%20Base&charm=No%20Charm&riftstalker=true&ballistaLevel=0&cannonLevel=0&amplifier=100&
+[slac-setup]: https://tsitu.github.io/MH-Tools/cre.html?location=Fort%20Rox&phase=Day&cheese=Crescent&empowered=No&weapon=S.L.A.C.&base=Aqua%20Base&charm=No%20Charm&riftstalker=true&ballistaLevel=0&cannonLevel=0&amplifier=100&
+[acronym-day-setup]: https://tsitu.github.io/MH-Tools/cre.html?location=Fort%20Rox&phase=Day&cheese=Crescent&empowered=No&weapon=Arcane%20Capturing%20Rod%20Of%20Never%20Yielding%20Mystery&base=Aqua%20Base&charm=No%20Charm&riftstalker=true&ballistaLevel=0&cannonLevel=0&amplifier=100&
 [shielding-charm]: https://mhwiki.hitgrab.com/wiki/index.php/Shielding_Charm
 [dust-drop-rate]: https://mhhunthelper.agiletravels.com/loot.php?item=78&timefilter=all_time
 [bird-drop-rate]: https://mhhunthelper.agiletravels.com/loot.php?item=209&timefilter=all_time
