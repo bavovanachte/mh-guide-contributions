@@ -165,7 +165,7 @@ The Monster of the Meteor and Night Guardian mice drop Dawn Dust, which is used 
 >   Not many hunters with the rank of Baron(ess) have any in their posession, though.
 > - You might take your chances with less than 10 Sunrise cheese. 10 will guarantee a catch, but each Sunrise
 >   hunt increases your chances of a successful catch. If you choose to go down this (risky) road, be prepared to buy
->   them on the Marketplace if it turns out you didn't get enough. More info in the next section.
+>   them on the Marketplace if it turns out you didn't get enough. Why? More info in the next chapter.
 
 ## Heart of the meteor: Getting the Meteor Prison Core trap
 
