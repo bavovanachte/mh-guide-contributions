@@ -40,7 +40,7 @@ for each of these power types.
 The choice of trap (type) depends on the phase you're hunting in. As for the base, make sure you have at least the
 Aqua base in your possession. Anything better (Spellbook, Papyrus, Rift, ...) is a nice bonus.
 
-### A - Day
+**Day**
 
 If you've bothered finishing Claw Shot City, you'll have the S.L.A.C. II in your posession.
 If you (like many other hunters) haven't, you have 2 main options:
@@ -55,7 +55,7 @@ Some numbers extracted from CRE (assuming Gouda, LGS, Aqua base and no charms):
   - S.L.A.C.: 40.39%
   - ACRONYM: 47.48%
 
-### B - Night
+**Night**
 
 First part of the night is Shadow, second part is Arcane.
 
@@ -64,7 +64,7 @@ First part of the night is Shadow, second part is Arcane.
   (or something weaker), you might want to [check your catchrates][CRE] against ACRONYM
   (without charms, ACRONYM actually gets higher catch rates)
 
-### C - Dawn
+**Dawn**
 
 Use your best Arcane setup
 
