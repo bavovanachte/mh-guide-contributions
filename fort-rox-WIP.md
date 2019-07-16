@@ -156,6 +156,7 @@ The Monster of the Meteor and Night Guardian mice drop Dawn Dust, which is used 
 
   - Craft Sunrise cheese to catch Heart of the Meteor (see next section). Costs you 25 Dawn Dust and 10 pieces will
     guarantee a catch.
+  - Craft the portal projector to gain access to the Heart of the Meteor (100 dawn dust). See next section for more info
 
 > Sounds grindy. How do I speed this up?
 >
@@ -168,6 +169,47 @@ The Monster of the Meteor and Night Guardian mice drop Dawn Dust, which is used 
 >   them on the Marketplace if it turns out you didn't get enough. Why? More info in the next chapter.
 
 ## Heart of the meteor: Getting the Meteor Prison Core trap
+
+Hidden in the Dawn phase, is the "Heart of the meteor" bonus area. If you've finished Fiery Warpath yet, it will likely
+remind you of the Artillery Commander bonus area.
+
+It takes a bit of work to gain access to this area, and gather the cheese for it, but as a reward you get a shiny new
+law trap: The Meteor Prison Core trap, which is upgradeable in a later area to the more powerful Ember Prison Core trap.
+
+To gain access, you'll need to buy the [Fort Rox Portal Projector][portal-projector] from the Fort Rox Cartographer for
+
+  - 100 Dawn Dust
+  - 1 Fort Rox Portal Core
+  - 1 Fort Rox Portal Console
+
+We covered Dawn Dust in the previous section. The 2 portal parts are acquired by finishing (rare) Fort Rox Treasure Maps.
+A [normal chest][normal-chest] will give you roughly a 12% chance of one of the portal parts dropping,
+[rare chests][rare-chest] go up to 35%. If mapping confuses you, or you don't have friends to do them with, look below
+the [section on maps](#more-on-maps)
+
+When you reach Dawn, you can activate the Portal via the HUD. Note, the portal will be destroyed when it opens,
+so it’s a one time use! Once you go in there’s no coming back without crafting another, so be sure to have your Sunrise
+Cheese (25 dawn dust each, Cheese Shop) in your inventory and ready to go.
+
+The Heart of the Meteor Mouse is weak to arcane traps, but pretty strong. Have no fear, though: after nine misses she
+will collapse in exhaustion, and your tenth hunt is a certain catch.
+Once you do catch her, you’ll be sent back to Daylight, and your hard earned Sunshine Cheese will automatically disarm.
+She’ll also drop a Meteoric Core Fragment, which you can take to the Trapsmith to get the Meteor Prison Core trap.
+
+If you have any Sunrise Cheese left, you can sell them on the Marketplace (they usually go for a pretty good price).
+
+> Sounds grindy. How do I speed this up?
+>
+> - The [previous section](#dawn) already mentions you can buy your Sunrise Cheese from the Marketplace or using
+>   Baitkeep/Ultimate charms to reduce the amount of Sunrise cheese needed.
+> - If you've done your share of Fort Rox maps, you should have the Portal pieces by now. If not, you can also buy them
+>   from the Marketplace. They're not cheap though!
+> - Leech Fort Rox maps. See [section on maps](#more-on-maps)
+> - You don't technically NEED to do this part straight away. The Meteor Prison Core trap gives you a nice boost
+>   (especially if you've skipped S.L.A.C. II), as Queso Canyon (the next area) also has law-type mice. However, that
+>   area also provides the [Judge Droid Trap][judge-droid], which is somewhere in between S.L.A.C.II and Meteor Prison
+>   Core performance-wise and requires a fairly modest amount of gold. I believe the Meteor Prison Core is still worth
+>   getting, but if you're sick of the area you could come back at a later time with an arsenal of upgraded weaponry.
 
 ## More on maps
 
@@ -208,3 +250,7 @@ case you don't have it yet.
 [dawn-damage]: (https://mhwiki.hitgrab.com/wiki/index.php/Fort_Rox#Wall_Damage_--_Dawn)
 [map-groups]: https://mhwiki.hitgrab.com/wiki/index.php/Communities#Map_groups
 [CRE]: https://tsitu.github.io/MH-Tools/cre.html
+[portal-projector]: https://mhwiki.hitgrab.com/wiki/index.php/Fort_Rox_Portal_Projector
+[rare-chest]: https://mhhunthelper.agiletravels.com/converter.php?item=2294
+[normal-chest]: https://mhhunthelper.agiletravels.com/converter.php?item=2292
+[judge-droid]: https://mhwiki.hitgrab.com/wiki/index.php/Judge_Droid_Trap
