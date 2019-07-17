@@ -99,12 +99,7 @@ As you start out, the first thing you'll have to do is get the first wall upgrad
 which will go directly in your 50HP wall. Then, gather some more meteorite pieces to craft a batch of Crescent/Moon to
 start off your first Night run. You don't need much (go with 20, why not) for the first run, as you'll retreat as soon
 as you've gathered 1 Howlite to get the first Balista upgrade (this will significantly boost the awful catchrate you
-get on the first run)
-
-So, I've mentioned retreating. During the night phase you can retreat to day whenever you want, without losing the wall
-HP you have left. When doing your first upgrades, you'll want to make use of this by retreating whenever you have enough
-materials to get your next upgrades. The moment you make it past Pitch and you're collecting Bloodstones you might want
-to consider finishing your run instead. More on that in the section on Night.
+get on the first run).
 
 > Sounds grindy. How do I speed this up?
 >
@@ -127,8 +122,105 @@ to consider finishing your run instead. More on that in the section on Night.
 >     [this thread](https://www.reddit.com/r/mousehunt/comments/c6iyt8/northern_hemisphere_summer_2019_findafriend_team/)
 >     instead
 
-
 ## Night phase: Collecting howlite and bloodstone
+
+Night is a dangerous time!  You need to hide behind the walls you’ve built, and hold out for 130 attacks (hunts) which progress at the top of the HUD. Succesful catches won't damage your wall. However:
+
+ - Each FTC (without mouse stealing resources) will do 3 damage to your wall
+ - Each FTC (with mouse stealing resources, red box) will do 5 damage to your wall
+ - Each FTA will do 5 damage to your wall
+ - Encountering the Battering Ram mouse will do 15 damage to your wall **regardless of whether you catch him or not**.
+   Hunting with Crescent or Moon cheese will avoid attraction of this mouse altogether.
+
+You're able to retreat back to the day phase at any time during the night without incurring additional damage to your
+wall. If you don't retreat, assuming you don’t reach dawn, once your wall reaches 0 HP, you’ll pass out unconscious from
+the assault and wake up back in the Day phase and a damaged wall. You'll need to gather Meteorite pieces to repair your
+wall and enter the Night phase again.
+
+What's the point, you ask? Well, the ultimate goal here is to make it through the night and reach Dawn. However, you
+won't even get close during your first few runs. Instead you'll gather supplies (Howlite and Bloodstone) during Night,
+which you spend on various upgrades to increase catch rate, increase wall HP limit, limit damage by mice,...
+More on the different upgrades and their effect in the [upgrades section](#upgrades).
+Each upgrade should allow you to make it a bit further into the night, until you finally make it till dawn.
+
+In order to give you an idea on the drop rates of Howlite and Bloodstones, I constructed the following table containing
+the drop rates **per catch** (assuming Crescent) per phase of Night. In order to get accurate numbers, you need to
+multiply this number by your overall catchrate in that phase (check [CRE][CRE])
+
+|                | Howlite | Bloodstone |
+|----------------|---------|------------|
+| Twilight       | 0.47    | 0          |
+| Midnight       | 0.54    | 0.15       |
+| Pitch          | 0.52    | 0.28       |
+| Utter darkness | 0.42    | 0.43       |
+| First Light    | 0.41    | 0.50       |
+
+**So, I've mentioned retreating. During the night phase you can retreat to day whenever you want, without losing the wall
+HP you have left. When doing your first upgrades, you'll want to make use of this by retreating whenever you have enough
+materials to get your next upgrades. The moment you make it past Pitch and you're collecting Bloodstones you might want
+to consider finishing your run instead. More on that in the section on Night.
+> POWER PLAY TIP
+>
+> Don’t feel like you have to spend the whole night and wait for your wall to be battered down.
+> Go to night time, spend 5 or so hunts and collect some Howlite, then leave.  You won’t have to spend too many (if any!) meteorite pieces to fix your wall, and you’ll be able to immediately upgrade your ballista, which reduces the power of the night mice….less FTC’s mean less damage!
+One of the difficult decisions is to decide when to stay in the Night side, and when to cut your losses and run, similar to the Furoma Rift decisions.  For this guide-maker, I retreated after getting one howlite so I could build my ballista, as that is a quick and easy way to help your progress.
+My second “bail out” was after I had 15 mana and 36 howlite, so I upgraded the tower, the moat and my ballista before going back in and trying to reach the Ruby drop levels of Midnight.  The adventure guide says to upgrade the wall before the ballista, but you can do as you see fit.  The key is to get lots of howlite and start upgrading as you are able.
+**
+
+#### The mice
+
+Except for a couple of exceptions, we can categorize each mouse encountered during Night into 2 groups:
+
+ - Weremice: Encountered especially during the first part of the night (Twilight, Midnight, Pitch).
+   Weakness to Shadow trap types.
+ - Cosmic Critters: Encountered especially during the last part of the night (Pitch, Utter Darkness, First Light).
+   Weakness to Arcane trap types.
+
+Each of these follow the normal 3/5 damage rule for FTCs. As I said, there are exceptions:
+
+- Battering Ram Mouse: 15 damage regardless of catch. Use Crescent or Moon to avoid him.
+- Nightfire mouse: 10 damage on FTC. Only available during last part of the night. The **Energy Cannon** upgrade will
+  guarantee a catch when encountering this mouse
+- Nightmancer mouse: Extends night by 3 hunts on FTC (pushes the counter back 3 hunts).
+  Only available during first part of the night. The **Sunsilver Ballista** upgrade will guarantee a catch when
+  encountering this mouse
+
+#### Stages of the night
+
+Night is broken up into five stages, each with different mice of different power and damage to your wall, this mechanic we’ve seen before in the Iceberg.
+
+- **Twilight** (35 hunts):
+
+  Mainly weremice and Nightmancer. Use shadow trap (see [trap setup](#recommended-trap-setup))
+
+- **Midnight** (25 hunts)
+
+  Also mainly weremice and Nightmancer, but more cosmic critters now. Shadow trap still recommended
+
+- **Pitch Black** (10 hunts)
+
+  Equal mix of weremice and cosmic critters, and now the Nightfire mouse has joined the party.
+  Recommendation is to use Arcane to avoid excessive damage done by Nightfire.
+
+  > This is a short phase, but Pitch can be a real... pitch (haha). Switching to Arcane means you're also more likely to
+  > miss the Nightmancer (yes, he's still around), which can knock you back into the Midnight phase. Keep an eye on your
+  > trap setup if this happens.
+  >
+  > We haven't discussed Mana yet, but a small sneak peak: when activated, it boosts your hunt progression by 2 hunts
+  > per hunt. If you want to boost past this area to avoid having being knocked back, you could choose to activate it
+  > here.
+
+- **Utter Darkness** (25 hunts)
+
+  Mainly Cosmic Critters and Nightfire. Use Arcane trap.
+
+- **First Light** (35 hunts)
+
+  Mainly Cosmic Critters and Nightfire. Nightmancer has left. Use Arcane trap.
+
+## Upgrades
+
+TODO
 
 ## Dawn phase: Collecting Dawn dust
 
