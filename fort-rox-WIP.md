@@ -189,34 +189,22 @@ Each of these follow the normal 3/5 damage rule for FTCs. As I said, there are e
 
 Night is broken up into five stages, each with different mice of different power and damage to your wall, this mechanic we’ve seen before in the Iceberg.
 
-- **Twilight** (35 hunts):
+|                | # hunts | Mice                                                  | Recommended trap |
+|----------------|---------|-------------------------------------------------------|------------------|
+| Twilight       | 35      | Mainly weremice and Nightmancer                       | Shadow           |
+| Midnight       | 25      | Mainly weremice and Nightmancer. Some Cosmic Critters | Shadow           |
+| Pitch          | 10      | ALL OF THEM!                                          | Arcane           |
+| Utter Darkness | 25      | Mainly Cosmic Critters and Nightfire. Some Weremice   | Arcane           |
+| First Light    | 35      | Mainly Cosmic Critters and Nightfire                  | Arcane           |
 
-  Mainly weremice and Nightmancer. Use shadow trap (see [trap setup](#recommended-trap-setup))
+**Note on Pitch:**
 
-- **Midnight** (25 hunts)
+This is a short phase, but Pitch can be a real... pitch (haha). Switching to Arcane means you're also more likely to
+miss the Nightmancer (yes, he's still around), which can knock you back into the Midnight phase. Keep an eye on your
+trap setup if this happens.
 
-  Also mainly weremice and Nightmancer, but more cosmic critters now. Shadow trap still recommended
-
-- **Pitch Black** (10 hunts)
-
-  Equal mix of weremice and cosmic critters, and now the Nightfire mouse has joined the party.
-  Recommendation is to use Arcane to avoid excessive damage done by Nightfire.
-
-  > This is a short phase, but Pitch can be a real... pitch (haha). Switching to Arcane means you're also more likely to
-  > miss the Nightmancer (yes, he's still around), which can knock you back into the Midnight phase. Keep an eye on your
-  > trap setup if this happens.
-  >
-  > We haven't discussed Mana yet, but a small sneak peak: when activated, it boosts your hunt progression by 2 hunts
-  > per hunt. If you want to boost past this area to avoid having being knocked back, you could choose to activate it
-  > here.
-
-- **Utter Darkness** (25 hunts)
-
-  Mainly Cosmic Critters and Nightfire. Use Arcane trap.
-
-- **First Light** (35 hunts)
-
-  Mainly Cosmic Critters and Nightfire. Nightmancer has left. Use Arcane trap.
+We haven't discussed Mana yet, but a small sneak peak: when activated, it boosts your hunt progression by 2 hunts per
+hunt. If you want to boost past this area to avoid having being knocked back, you could choose to activate it here.
 
 ## Upgrades
 
