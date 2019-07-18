@@ -137,7 +137,7 @@ Night is a dangerous time!  You need to hide behind the walls you’ve built, an
 
 You're able to retreat back to the day phase at any time during the night without incurring additional damage to your
 wall. If you don't retreat, assuming you don’t reach dawn, once your wall reaches 0 HP, you’ll pass out unconscious from
-the assault and wake up back in the Day phase and a damaged wall. You'll need to gather Meteorite pieces to repair your
+the assault and wake up back in the Day phase with a damaged wall. You'll need to gather Meteorite pieces to repair your
 wall and enter the Night phase again.
 
 What's the point, you ask? Well, the ultimate goal here is to make it through the night and reach Dawn. However, you
@@ -158,17 +158,17 @@ multiply this number by your overall catchrate in that phase (check [CRE][CRE])
 | Utter darkness | 0.42    | 0.43       |
 | First Light    | 0.41    | 0.50       |
 
-**So, I've mentioned retreating. During the night phase you can retreat to day whenever you want, without losing the wall
-HP you have left. When doing your first upgrades, you'll want to make use of this by retreating whenever you have enough
-materials to get your next upgrades. The moment you make it past Pitch and you're collecting Bloodstones you might want
-to consider finishing your run instead. More on that in the section on Night.
-> POWER PLAY TIP
->
-> Don’t feel like you have to spend the whole night and wait for your wall to be battered down.
-> Go to night time, spend 5 or so hunts and collect some Howlite, then leave.  You won’t have to spend too many (if any!) meteorite pieces to fix your wall, and you’ll be able to immediately upgrade your ballista, which reduces the power of the night mice….less FTC’s mean less damage!
-One of the difficult decisions is to decide when to stay in the Night side, and when to cut your losses and run, similar to the Furoma Rift decisions.  For this guide-maker, I retreated after getting one howlite so I could build my ballista, as that is a quick and easy way to help your progress.
-My second “bail out” was after I had 15 mana and 36 howlite, so I upgraded the tower, the moat and my ballista before going back in and trying to reach the Ruby drop levels of Midnight.  The adventure guide says to upgrade the wall before the ballista, but you can do as you see fit.  The key is to get lots of howlite and start upgrading as you are able.
-**
+So, I've mentioned **retreating**. In the first few runs you'll be collecting Howlite, and won't make it past Pitch
+(probably). In this case there is no "cost" to retreating: you don't lose additional HP, and Twilight, Midnight and Pitch
+all roughly drop the same amount of Howlite so there is penalty of having to start back in Twilight. So during your Howlite
+runs, retreat whenever you have enough resources to perform an upgrade.
+
+As you advance further into the night, you might want to be more careful. At some point Bloodstones become an important
+resource for your upgrades. As you can see in the table above the initial Night phases won't provide much Bloodstones,
+so when you've made it past pitch you need to compare the ramp-up cost (the number of hunts and Crescent cheese needed
+to make it through Twilight, Midnight and Pitch) against the benefits of coming back later with an additional upgrade.
+Cannon-1 and Moat-2 are probably candidates for early retreat, as they don't require a lot of Bloodstones and you're
+still losing a lot of HP in the later phases of night.
 
 #### The mice
 
@@ -272,9 +272,12 @@ you can get to Utter Darkness at this point.
 - If you're still only barely getting there, do something like Moat-2 --> Balista-2 --> Cannon-1 --> Cannon-2
 - If you have a strong setup, do something like Cannon-1 --> Moat-2 --> Balista-2 --> Cannon-2
 
-The rest if very subjective, and has been fuel for many debates.
-
-... TBC
+The rest if very subjective, depending on your setup and luck so far, and has been fuel for many debates. I assume that
+by now you've made a few runs and have a clear idea on what you want to focus on. I'll just add a small note on
+Cannon-3 vs Balista-3: if you've had some bad luck with Nightmancer, you've probably been eyeing the Balista-3 upgrade
+for a while (the push back can be frustrating). I would caution constraint though, and prioritize Cannon-3 to get rid
+of Nightfire instead. Being pushed back is annoying, yes, but has less impact on the amount of resources you'll gather
+in your run.
 
 ## Dawn phase: Collecting Dawn dust
 
