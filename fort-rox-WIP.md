@@ -116,6 +116,9 @@ get on the first run).
 >   - **Trading in Howlite**: The Fort Rox General Store allows you to trade in 1 Howlite against 2
 >     (or 3 if you have a train badge) Meteorite Pieces. As Howlite is also needed to perform most of the upgrades,
 >     you might want to use this strategy with restraint.
+>   - **Tower mana**: It's not the most efficient use of Mana, but with the Spotlight Enhancement upgrade your
+>     Meteorite Piece drops will be doubled. I wouldn't recommend this, as Mana is much more useful during the night
+>     phase. More on Tower Mana in the [Mana](#mana) and [Upgrades](#upgrades) sections
 >   - Honorable mention: **Daily Gifts**: Meteorite Pieces regularly get picked by the devs as daily gifts. Not a
 >     reliable source, but it's always a good idea to find some more buddies to trade gifts with. Just don't create a
 >     new post for it on Reddit, use
@@ -208,7 +211,70 @@ hunt. If you want to boost past this area to avoid having being knocked back, yo
 
 ## Upgrades
 
-TODO
+When you've collected upgrade materials during night, you'll be able to use those to upgrade your fort equipment during
+the day phase. In this section, I'll briefly explain what the different upgrades are. For a more detailed list, see
+[the wiki][wiki-upgrades].
+
+|           | Howlite |  Bloodstone |
+|-----------|---------|-------------|
+| Balista 1 | 1       | 0           |
+| Balista 2 | 25      | 0           |
+| Balista 3 | 100     | 20          |
+| Cannon 1  | 20      | 5           |
+| Cannon 2  | 30      | 15          |
+| Cannon 3  | 50      | 60          |
+| Moat 1    | 10      | 0           |
+| Moat 2    | 35      | 2           |
+| Moat 3    | 100     | 50          |
+| Wall 1    | 0       | 0           |
+| Wall 2    | 15      | 0           |
+| Wall 3    | 40      | 20          |
+| Wall 4    | 150     | 75          |
+
+Generally, the first upgrades in a category require only (or mostly) Howlite, and as the upgrades become more powerful
+they also require Bloodstones. This matches with the fact that Bloodstones are scarce during the first part of night and
+become more abundant later on, so you'll have to push further into the night to get those good upgrades.
+
+  - **Wall**: Each upgrade increases the maximum HP of your wall. It'll take more time to repair, but will allow you to
+    push further into the night.
+  - **Ballista**: Catch-rate boosts against weremice and Nightmancer (Sunsilver Ballista upgrade). These will make the
+    first part of the Night (Twilight, Midnight, Pitch) easier, allowing you to push further into the night.
+  - **Cannon**: Catch-rate boosts against Cosmic Critters and Nightfire (Energy Cannon upgrade). These will make the
+    last part of the Night (Pitch, Utter Darkness, First light) easier, giving you that extra push to get to Dawn.
+  - **Moat**: Decreases the amount of damage done to your wall, with reductions up to 3 damage (e.g. an FTA would only
+    cause 2 damage iso 5).
+  - **Mage Tower**: I'll go into a a bit more detail here, as the upgrades vary a lot. I still haven't discussed what
+    Mana is, where you can get it and when you should use it, but I'll do it soon. Promise. What's important now is that
+    The effects described here are only in effect when activating the Tower Mana through the HUD. The effects are pretty
+    impressive, but Tower Mana is a finite resource so you won't have them all the time:
+
+    - **Spotlight Enchantment**: Doubles loot drops of Meteorite Piece, Howlite, or Bloodstone.
+    - **Power Enchantment**: Adds a chance to instantly capture any mouse.
+    - **Healing Enchantment**: Heals your wall by 1 health after every hunt
+    - **Sunsphere Enchantment**: Reduces hunts until dawn by 2 after every hunt
+
+#### Which upgrades to prioritize?
+
+First, let's get the Mage Tower out of the way. What you do with this one is entirely up to you. The upgrades aren't
+very expensive in terms of Bloodstone/Howlite, but will cost Tower Mana. If you plan to boost your way through Fort Rox,
+(and spend a lot of money on Tower Mana in the process) make sure to get these as soon as you can, as they are quite
+powerful. If you're short on case, and have a limited supply of Mana, you might want to push it back on the priority
+list.
+
+Now, for the other ones.
+
+In the first runs you'll only have access to Howlite, so that's easy: get Balista-1, Moat-1 and Wall-2 as the Adventure
+book dictates. Note that at this point you can still retreat without delaying your progress. Hunt in Twilight/Midnight
+and retreat as soon as you have the necessary Howlite. Upgrade and go again.
+
+Next up would be  Cannon-1, Cannon-2, Moat-2 and Balista-2. I think the order in which you should do these depends on how easy
+you can get to Utter Darkness at this point.
+- If you're still only barely getting there, do something like Moat-2 --> Balista-2 --> Cannon-1 --> Cannon-2
+- If you have a strong setup, do something like Cannon-1 --> Moat-2 --> Balista-2 --> Cannon-2
+
+The rest if very subjective, and has been fuel for many debates.
+
+... TBC
 
 ## Dawn phase: Collecting Dawn dust
 
@@ -334,3 +400,4 @@ case you don't have it yet.
 [rare-chest]: https://mhhunthelper.agiletravels.com/converter.php?item=2294
 [normal-chest]: https://mhhunthelper.agiletravels.com/converter.php?item=2292
 [judge-droid]: https://mhwiki.hitgrab.com/wiki/index.php/Judge_Droid_Trap
+[wiki-upgrades]: https://mhwiki.hitgrab.com/wiki/index.php/Fort_Rox#Upgrading_the_Fort
