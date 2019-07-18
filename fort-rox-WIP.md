@@ -4,6 +4,24 @@ maintained in [github](https://github.com/bavovanachte/mh-guide-contributions/bl
 
 # [Fort Rox](https://mhwiki.hitgrab.com/wiki/index.php/Fort_Rox)
 
+## Table of contents
+
+- [Requirements](#requirements)
+- [Summary](#summary)
+- [TL;DRs](#tldrs)
+- [Recommended trap setup](#recommended-trap-setup)
+- [Cheeses and mouse pool](#cheeses-and-mouse-pool)
+- [Day phase](#day-phase-collecting-meteorite-pieces)
+- [Night phase](#night-phase-collecting-howlite-and-bloodstone)
+  - [The mice](#the-mice)
+  - [Stages of the night](#stages-of-the-night)
+- [Upgrades](#upgrades)
+- [Dawn phase](#dawn-phase-collecting-dawn-dust)
+- [Heart of the meteor](#hotm)
+- [Mana](#mana)
+- [More on maps](#more-on-maps)
+- [Why you would come back](#why-you-would-come-back)
+
 ## Requirements:
 
 * Ranks: Baron(ess)
@@ -19,20 +37,20 @@ at the start, but you'll be able to boost them by upgrading your wall, cannon, m
 
 When you're done with the area, you'll have 3 new traps and a ticket to a new area: Queso Canyon.
 
-## TL;DRs
+## TL;DRs:
 
   - Gather meteorite pieces during day to repair your wall and craft Cresent/Moon cheese
   - Defend your fort during nighttime, and gather resources for upgrading in the process
   - When you wall is destroyed (or you've retreated), use the resources to upgrade your camp
   - Repeat until you have enough upgrades to make it through the whole night (into dawn)
-  - In Dawn, gather Dawn dust to buy traps and Sunrise cheese
+  - In Dawn, gather Dawn dust to buy traps, Sunrise cheese, and your ticket to Queso Canyon
   - Gather portal pieces by doing maps and use the portal to get to Heart of the meteor (need Sunrise cheese)
-  - Buy the new Meteor Prison Core trap using Meteoric Core Fragment (dropped by Heart Of The Meteor).
+  - Buy the new [Meteor Prison Core trap][mpc] using Meteoric Core Fragment (dropped by Heart Of The Meteor).
 
-## Recommended trap setup
+## Recommended trap setup:
 
-Trap setups below assume you don't have any Limited Edition traps in your position. If you do, check CRE to see if
-they perform better or worse than the ones mentioned below.
+Trap setups below assume you don't have any Limited Edition traps in your position. If you do, check [CRE][CRE] to see
+if they perform better or worse than the ones mentioned below.
 
 3 Power types are used in this area: Law, Arcane and Shadow. Once you make it till Dawn, the area provides a new trap
 for each of these power types.
@@ -41,6 +59,8 @@ The choice of trap (type) depends on the phase you're hunting in. As for the bas
 Aqua base in your possession. Anything better (Spellbook, Papyrus, Rift, ...) is a nice bonus.
 
 **Day**
+
+Mice here are weak to Law-type traps.
 
 If you've bothered finishing Claw Shot City, you'll have the S.L.A.C. II in your posession.
 If you (like many other hunters) haven't, you have 2 main options:
@@ -60,9 +80,9 @@ Some numbers extracted from CRE (assuming Gouda, LGS, Aqua base and no charms):
 First part of the night is Shadow, second part is Arcane.
 
 - For Arcane, use your best setup. Assuming you haven't finished Living Garden, that would be ACRONYM.
-- Same for Shadow. I'd recommend getting the Reaper's Perch first, but if your best is the Clockapult of Time
-  (or something weaker), you might want to [check your catchrates][CRE] against ACRONYM
-  (without charms, ACRONYM actually gets higher catch rates)
+- Same for Shadow. If your best is the Clockapult of Time (or something weaker), you might want to
+  [check your catchrates][CRE] against ACRONYM (without charms, ACRONYM actually gets higher catch rates). If you have
+  a better shadow trap (Reaper's Perch for example), that's likely the better option.
 
 **Dawn**
 
@@ -72,13 +92,13 @@ Use your best Arcane setup
 
 2 Cheeses you may have used before in your Lycan catching days are re-introduced here: [Moon](https://mhwiki.hitgrab.com/wiki/index.php/Moon_Cheese) and [Crescent](https://mhwiki.hitgrab.com/wiki/index.php/Crescent_Cheese) cheese.
 
-Both are crafted/bought using meteorite pieces, but Moon requires additional 2 Magic Essence for 1 piece of cheese.
+Both are crafted/bought using Meteorite Pieces, but Moon requires additional 2 Magic Essence for 1 piece of cheese.
 Check the wiki links for the exact formula.
 Apart from these, store-bought and Super|brie+ work as well, but are not advised during the Night phase
 
   - **Day**: Use gouda (or Super|brie+ if you want to go a bit faster). Crescent and Moon work here as well, but
     [the numbers](https://mhhunthelper.agiletravels.com/loot.php?item=11&timefilter=all_time) don't show a major difference
-    in drop rate.
+    in drop rate, so avoid them for cost reasons.
   - **Night**: Use Crescent or Moon (the difference between the two is comparable to Gouda vs Super|brie+). Gouda and
     Super|brie+ will work as well, but they will attract the Battering Ram mouse, which does heavy damage to your wall
     (even if you catch him)
@@ -96,10 +116,10 @@ You'll come back here often. The idea is that you gather Meteorite Pieces here, 
 (hunt with the in the form of cheese or watch mice destroy your wall) and then start the process all over.
 
 As you start out, the first thing you'll have to do is get the first wall upgrade. It'll cost you 50 meteorite pieces,
-which will go directly in your 50HP wall. Then, gather some more meteorite pieces to craft a batch of Crescent/Moon to
-start off your first Night run. You don't need much (go with 20, why not) for the first run, as you'll retreat as soon
-as you've gathered 1 Howlite to get the first Balista upgrade (this will significantly boost the awful catchrate you
-get on the first run).
+which will go directly in your 50HP wall (meaning you won't have to repair it first). Then, gather some more meteorite
+pieces to craft a batch of Crescent/Moon to start off your first Night run.
+You don't need much (go with 20, why not) for the first run, as you'll retreat as soon as you've gathered 1 Howlite to
+get the first Ballista upgrade (this will significantly boost the awful catchrate you get on the first run).
 
 > Sounds grindy. How do I speed this up?
 >
@@ -107,17 +127,17 @@ get on the first run).
 >
 >   - **Buying Meteorite Pieces from the Kings Cart** for 1 KC a piece. There isn't really a reliable way to get more
 >     King's Credits, so this is not really a sustainable way of getting your materials.
->   - **Buying Crescent/Moon from the Marketplace**: A fairly reliable way of getting your cheese and only having to
->     gather Meteorite Pieces for repairing the wall. Note that the average gold per hunt you get is not very high
->     ([CRE][CRE] can calculate that for you), so it's still likely going to be a net loss goldwise
+>   - **Buying Crescent/Moon from the Marketplace**: A fairly reliable way of getting your cheese and it means you'll
+>     only have to gather Meteorite Pieces for repairing the wall. Note that the average gold per hunt you get is not
+>     very high ([CRE][CRE] can calculate that for you), so it's still likely going to be a net loss goldwise
 >   - **Fort Rox maps**. [Normal treasure chests][normal-chest] will net you 25 Meteorite Pieces on average, the
 >     [rare variant][rare-chest] 50. More on maps [later](#more-on-maps).
 >   - **Trading in Howlite**: The Fort Rox General Store allows you to trade in 1 Howlite against 2
 >     (or 3 if you have a train badge) Meteorite Pieces. As Howlite is also needed to perform most of the upgrades,
 >     you might want to use this strategy with restraint.
 >   - **Tower mana**: It's not the most efficient use of Mana, but with the Spotlight Enhancement upgrade your
->     Meteorite Piece drops will be doubled. I wouldn't recommend this, as Mana is much more useful during the night
->     phase. More on Tower Mana in the [Mana](#mana) and [Upgrades](#upgrades) sections
+>     Meteorite Piece drops will be doubled. I wouldn't recommend this, as Mana is much more useful during the
+>     Night/Dawn phase. More on Tower Mana in the [Mana](#mana) and [Upgrades](#upgrades) sections
 >   - Honorable mention: **Daily Gifts**: Meteorite Pieces regularly get picked by the devs as daily gifts. Not a
 >     reliable source, but it's always a good idea to find some more buddies to trade gifts with. Just don't create a
 >     new post for it on Reddit, use
@@ -131,8 +151,9 @@ Night is a dangerous time!  You need to hide behind the walls you’ve built, an
  - Each FTC (without mouse stealing resources) will do 3 damage to your wall
  - Each FTC (with mouse stealing resources, red box) will do 5 damage to your wall
  - Each FTA will do 5 damage to your wall
- - Encountering the Battering Ram mouse will do 15 damage to your wall **regardless of whether you catch him or not**.
+ - Encountering the Battering Ram mouse will do 15 damage to your wall **regardless of whether you catch him**.
    Hunting with Crescent or Moon cheese will avoid attraction of this mouse altogether.
+ - Missing a Nightfire mouse will do 10 damage to your wall.
 
 You're able to retreat back to the day phase at any time during the night without incurring additional damage to your
 wall. If you don't retreat, assuming you don’t reach dawn, once your wall reaches 0 HP, you’ll pass out unconscious from
@@ -141,7 +162,7 @@ wall and enter the Night phase again.
 
 What's the point, you ask? Well, the ultimate goal here is to make it through the night and reach Dawn. However, you
 won't even get close during your first few runs. Instead you'll gather supplies (Howlite and Bloodstone) during Night,
-which you spend on various upgrades to increase catch rate, increase wall HP limit, limit damage by mice,...
+which you'll spend on various upgrades to increase catch rate, increase wall HP limit, limit damage by mice,...
 More on the different upgrades and their effect in the [upgrades section](#upgrades).
 Each upgrade should allow you to make it a bit further into the night, until you finally make it till dawn.
 
@@ -167,7 +188,7 @@ resource for your upgrades. As you can see in the table above the initial Night 
 so when you've made it past pitch you need to compare the ramp-up cost (the number of hunts and Crescent cheese needed
 to make it through Twilight, Midnight and Pitch) against the benefits of coming back later with an additional upgrade.
 Cannon-1 and Moat-2 are probably candidates for early retreat, as they don't require a lot of Bloodstones and you're
-still losing a lot of HP in the later phases of night.
+still losing a lot of HP in the later phases of night. The upgrades are explain in the [upgrades section](#upgrades).
 
 #### The mice
 
@@ -222,9 +243,9 @@ the day phase. In this section, I'll briefly explain what the different upgrades
 
 |           | Howlite |  Bloodstone |
 |-----------|---------|-------------|
-| Balista 1 | 1       | 0           |
-| Balista 2 | 25      | 0           |
-| Balista 3 | 100     | 20          |
+| Ballista 1 | 1       | 0           |
+| Ballista 2 | 25      | 0           |
+| Ballista 3 | 100     | 20          |
 | Cannon 1  | 20      | 5           |
 | Cannon 2  | 30      | 15          |
 | Cannon 3  | 50      | 60          |
@@ -263,23 +284,23 @@ become more abundant later on, so you'll have to push further into the night to 
 First, let's get the Mage Tower out of the way. What you do with this one is entirely up to you. The upgrades aren't
 very expensive in terms of Bloodstone/Howlite, but will cost Tower Mana. If you plan to boost your way through Fort Rox,
 (and spend a lot of money on Tower Mana in the process) make sure to get these as soon as you can, as they are quite
-powerful. If you're short on case, and have a limited supply of Mana, you might want to push it back on the priority
+powerful. If you're short on cash, and have a limited supply of Mana, you might want to push it back on the priority
 list.
 
 Now, for the other ones.
 
-In the first runs you'll only have access to Howlite, so that's easy: get Balista-1, Moat-1 and Wall-2 as the Adventure
+In the first runs you'll only have access to Howlite, so that's easy: get Ballista-1, Moat-1 and Wall-2 as the Adventure
 book dictates. Note that at this point you can still retreat without delaying your progress. Hunt in Twilight/Midnight
 and retreat as soon as you have the necessary Howlite. Upgrade and go again.
 
-Next up would be  Cannon-1, Cannon-2, Moat-2 and Balista-2. I think the order in which you should do these depends on how easy
+Next up would be  Cannon-1, Cannon-2, Moat-2 and Ballista-2. I think the order in which you should do these depends on how easy
 you can get to Utter Darkness at this point.
-- If you're still only barely getting there, do something like Moat-2 --> Balista-2 --> Cannon-1 --> Cannon-2
-- If you have a strong setup, do something like Cannon-1 --> Moat-2 --> Balista-2 --> Cannon-2
+- If you're still only barely getting there, do something like Moat-2 --> Ballista-2 --> Cannon-1 --> Cannon-2
+- If you have a strong setup, do something like Cannon-1 --> Moat-2 --> Ballista-2 --> Cannon-2
 
 The rest if very subjective, depending on your setup and luck so far, and has been fuel for many debates. I assume that
 by now you've made a few runs and have a clear idea on what you want to focus on. I'll just add a small note on
-Cannon-3 vs Balista-3: if you've had some bad luck with Nightmancer, you've probably been eyeing the Balista-3 upgrade
+Cannon-3 vs Ballista-3: if you've had some bad luck with Nightmancer, you've probably been eyeing the Ballista-3 upgrade
 for a while (the push back can be frustrating). I would caution constraint though, and prioritize Cannon-3 to get rid
 of Nightfire instead. Being pushed back is annoying, yes, but has less impact on the amount of resources you'll gather
 in your run.
@@ -297,8 +318,10 @@ If for some reason you're not hunting with Crescent or Moon: Battering Ram damag
 [Shielding charms][shielding-charm], if you have any, may be useful here as they prevent red boxes (FTC with mice stealing
 supplies) which cause more damages. For reference: at rage level 10, a normal FTC causes 33 damage, a red box FTC does 50.
 
-The Monster of the Meteor and Night Guardian mice drop Dawn Dust, which is used for 2 things:
+The Monster of the Meteor and Night Guardian mice drop Dawn Dust, which is used for a couple of things:
 
+  - Buying the Queso Dowsing Rod: 50 Dawn Dust + Inert Queso Dowsing Rod (dropped by Monster of the Meteor). This
+    is the "map piece" that gives you access to Queso Canyon.
   - Building the new traps: Droid Archmagus and Interdimensional Crossbow Trap. The parts needed to build these are
     obtained either as rare drops or by buying them in the General Store in exchange for Dawn Dust (you'll need 500
     dust per trap)
@@ -315,8 +338,8 @@ The Monster of the Meteor and Night Guardian mice drop Dawn Dust, which is used 
 
 > Sounds grindy. How do I speed this up?
 >
-> - **Marketplace**: If you have the gold for it, you don't really need to gather any dawn dust.
->   Animatronic Bird, Silver Bolt and Sunrise cheese are all available on the Marketplace.
+> - **Marketplace**: If you have the gold for it, you don't really need to gather any dawn dust (except for the map
+>   piece). Animatronic Bird, Silver Bolt and Sunrise cheese are all available on the Marketplace.
 > - **Baitkeep or Ultimate charms** will allow you to reduce the amount of Sunrise cheese you need if you use them on
 >   Heart of the Meteor. Not many hunters with the rank of Baron(ess) have any in their posession, though.
 > - You might take your chances with **less than 10 Sunrise cheese**. 10 will guarantee a catch, but each Sunrise
@@ -428,8 +451,8 @@ case you don't have it yet.
 
 ## Why you would come back
 
-Not much. The usual stuff: Maps, Bronze/Silver/Gold Crowns, getting traps you skipped for collection purposes.
-No theme to collect here.
+Not much to come back for. The usual stuff: Maps, Bronze/Silver/Gold Crowns, getting traps you skipped for collection
+purposes. No theme to collect here.
 
 [slac2-setup]: https://tsitu.github.io/MH-Tools/cre.html?location=Fort%20Rox&phase=Day&cheese=Crescent&empowered=No&weapon=S.L.A.C.%20II&base=Aqua%20Base&charm=No%20Charm&riftstalker=true&ballistaLevel=0&cannonLevel=0&amplifier=100&
 [slac-setup]: https://tsitu.github.io/MH-Tools/cre.html?location=Fort%20Rox&phase=Day&cheese=Crescent&empowered=No&weapon=S.L.A.C.&base=Aqua%20Base&charm=No%20Charm&riftstalker=true&ballistaLevel=0&cannonLevel=0&amplifier=100&
@@ -446,3 +469,4 @@ No theme to collect here.
 [normal-chest]: https://mhhunthelper.agiletravels.com/converter.php?item=2292
 [judge-droid]: https://mhwiki.hitgrab.com/wiki/index.php/Judge_Droid_Trap
 [wiki-upgrades]: https://mhwiki.hitgrab.com/wiki/index.php/Fort_Rox#Upgrading_the_Fort
+[mpc]: https://mhwiki.hitgrab.com/wiki/index.php/Meteor_Prison_Core_Trap
