@@ -110,9 +110,8 @@ get on the first run).
 >   - **Buying Crescent/Moon from the Marketplace**: A fairly reliable way of getting your cheese and only having to
 >     gather Meteorite Pieces for repairing the wall. Note that the average gold per hunt you get is not very high
 >     ([CRE][CRE] can calculate that for you), so it's still likely going to be a net loss goldwise
->   - **Fort Rox maps**. [Normal treasure chests](https://mhhunthelper.agiletravels.com/converter.php?item=2292) will
->     net you 25 Meteorite Pieces on average, the
->     [rare variant](https://mhhunthelper.agiletravels.com/converter.php?item=2294) 50. More on maps later.
+>   - **Fort Rox maps**. [Normal treasure chests][normal-chest] will net you 25 Meteorite Pieces on average, the
+>     [rare variant][rare-chest] 50. More on maps [later](#more-on-maps).
 >   - **Trading in Howlite**: The Fort Rox General Store allows you to trade in 1 Howlite against 2
 >     (or 3 if you have a train badge) Meteorite Pieces. As Howlite is also needed to perform most of the upgrades,
 >     you might want to use this strategy with restraint.
@@ -208,6 +207,12 @@ trap setup if this happens.
 
 We haven't discussed Mana yet, but a small sneak peak: when activated, it boosts your hunt progression by 2 hunts per
 hunt. If you want to boost past this area to avoid having being knocked back, you could choose to activate it here.
+
+> Sounds grindy. How do I speed this up?
+>
+>   - **Tower mana**: This is where Tower Mana shines. It can advance you quicker, give you a better catchrate, repair
+>     your wall and doubles Howlite and Bloodstone drops. It's also really expensive if you want to keep it on all the
+>     time. More on Tower Mana in the [Mana](#mana) and [Upgrades](#upgrades) sections
 
 ## Upgrades
 
@@ -305,17 +310,22 @@ The Monster of the Meteor and Night Guardian mice drop Dawn Dust, which is used 
 
   - Craft Sunrise cheese to catch Heart of the Meteor (see next section). Costs you 25 Dawn Dust and 10 pieces will
     guarantee a catch.
-  - Craft the portal projector to gain access to the Heart of the Meteor (100 dawn dust). See next section for more info
+  - Craft the portal projector to gain access to the Heart of the Meteor (100 dawn dust). See [next section](#hotm)
+    for more info
 
 > Sounds grindy. How do I speed this up?
 >
-> - If you have the gold for it, you don't really need to gather any dawn dust.
+> - **Marketplace**: If you have the gold for it, you don't really need to gather any dawn dust.
 >   Animatronic Bird, Silver Bolt and Sunrise cheese are all available on the Marketplace.
-> - Baitkeep or Ultimate charms will allow you to reduce the amount of Sunrise cheese you need.
->   Not many hunters with the rank of Baron(ess) have any in their posession, though.
-> - You might take your chances with less than 10 Sunrise cheese. 10 will guarantee a catch, but each Sunrise
+> - **Baitkeep or Ultimate charms** will allow you to reduce the amount of Sunrise cheese you need if you use them on
+>   Heart of the Meteor. Not many hunters with the rank of Baron(ess) have any in their posession, though.
+> - You might take your chances with **less than 10 Sunrise cheese**. 10 will guarantee a catch, but each Sunrise
 >   hunt increases your chances of a successful catch. If you choose to go down this (risky) road, be prepared to buy
 >   them on the Marketplace if it turns out you didn't get enough. Why? More info in the next chapter.
+> - **Tower Mana** can still heal your wall and increase your catchrate (insta-catch). It still doubles loot drops, but
+>   that doesn't work for Dawn Dust. More on Tower Mana in the [Mana](#mana) and [Upgrades](#upgrades) sections
+
+<a name="hotm"></a>
 
 ## Heart of the meteor: Getting the Meteor Prison Core trap
 
@@ -349,16 +359,49 @@ If you have any Sunrise Cheese left, you can sell them on the Marketplace (they 
 
 > Sounds grindy. How do I speed this up?
 >
-> - The [previous section](#dawn) already mentions you can buy your Sunrise Cheese from the Marketplace or using
->   Baitkeep/Ultimate charms to reduce the amount of Sunrise cheese needed.
-> - If you've done your share of Fort Rox maps, you should have the Portal pieces by now. If not, you can also buy them
->   from the Marketplace. They're not cheap though!
-> - Leech Fort Rox maps. See [section on maps](#more-on-maps)
+> - **Marketplace**: The [previous section](#dawn) already mentions you can buy your Sunrise Cheese from the Marketplace
+>   or using Baitkeep/Ultimate charms to reduce the amount of Sunrise cheese needed.
+> - **Marketplace**: If you've done your share of Fort Rox maps, you should have the Portal pieces by now.
+    If not, you can also buy them from the Marketplace. They're not cheap though!
+> - **Leech Fort Rox maps**. See [section on maps](#more-on-maps)
 > - You don't technically NEED to do this part straight away. The Meteor Prison Core trap gives you a nice boost
 >   (especially if you've skipped S.L.A.C. II), as Queso Canyon (the next area) also has law-type mice. However, that
 >   area also provides the [Judge Droid Trap][judge-droid], which is somewhere in between S.L.A.C.II and Meteor Prison
 >   Core performance-wise and requires a fairly modest amount of gold. I believe the Meteor Prison Core is still worth
 >   getting, but if you're sick of the area you could come back at a later time with an arsenal of upgraded weaponry.
+> - **Tower Mana DOES NOT WORK HERE**. Sorry, no insta-catch bonus here.
+
+## Mana
+
+As you may have figured out by now, Tower Mana is a (finite) resource that gives you a number of boosts/benefits when
+activated depending on how far the Mage Tower has been upgraded (see [upgrades](#upgrades)). 1 Mana will be consumed
+per hunt, regardless of how that hunt turned out.
+
+Where to get it?
+
+- Loot drops from **Mining Materials Manager**(Day) and **Night Shift Materials Manager**(Night) mice. Best attraction
+  with resp. Super|brie+ and Moon cheese. This will give you a small supply to use in strategic moments, but won't allow
+  you to keep it on through the whole night.
+- Buy in the **Fort Rox General Store**:
+  - 1 Tower Mana for 1 Howlite and 2 Bloodstone if you have less than 3 Train badges
+  - 2 Tower Mana for 3 Bloodstone if you have 3 (or more) Train badges
+- **Fort Rox maps**. [Normal treasure chests][normal-chest] will  net you 5 Tower Mana on average, the
+  [rare variant][rare-chest] 10. More on maps [later](#more-on-maps).
+- **Marketplace**: Not cheap!
+- **Donation**: You can buy bundles of these for real $$$ in the Premium Shop
+- Honorable mentions:
+  - **Ful'Mina**: As a baron, you can't access Moussu Picchu yet, but she does drop it.
+  - **Ful'Mina's gift**: Same story.
+
+When to use it?
+
+I'll assume you don't have enough Tower Mana to leave it on all the time. If you do then, well..., leave it on all the
+time. There are a couple of useful scenario's I can think of:
+
+- At Dawn. The insta-catch effect might help you get a couple more catches (and more Dawn Dust)
+- During night, when you're *THIS* close to getting enough materials for the next upgrade, but you might not make it
+- During Pitch, if you're sick of having to switch back and forth between Arcane and Shadow due to the Nightmancer
+  pushing you back 3 hunts
 
 ## More on maps
 
@@ -383,11 +426,10 @@ to send you back any Portal parts they may have received in exchange. This can b
 the money back you spent on Crescent cheese from the Marketplace, or optimize your chances of getting a Portal part in
 case you don't have it yet.
 
-## The new traps
-
-## Adventure
-
 ## Why you would come back
+
+Not much. The usual stuff: Maps, Bronze/Silver/Gold Crowns, getting traps you skipped for collection purposes.
+No theme to collect here.
 
 [slac2-setup]: https://tsitu.github.io/MH-Tools/cre.html?location=Fort%20Rox&phase=Day&cheese=Crescent&empowered=No&weapon=S.L.A.C.%20II&base=Aqua%20Base&charm=No%20Charm&riftstalker=true&ballistaLevel=0&cannonLevel=0&amplifier=100&
 [slac-setup]: https://tsitu.github.io/MH-Tools/cre.html?location=Fort%20Rox&phase=Day&cheese=Crescent&empowered=No&weapon=S.L.A.C.&base=Aqua%20Base&charm=No%20Charm&riftstalker=true&ballistaLevel=0&cannonLevel=0&amplifier=100&
