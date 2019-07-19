@@ -296,7 +296,7 @@ and retreat as soon as you have the necessary Howlite. Upgrade and go again.
 Next up would be  Cannon-1, Cannon-2, Moat-2 and Ballista-2. I think the order in which you should do these depends on how easy
 you can get to Utter Darkness at this point.
 - If you're still only barely getting there, do something like Moat-2 --> Ballista-2 --> Cannon-1 --> Cannon-2
-- If you have a strong setup, do something like Cannon-1 --> Moat-2 --> Ballista-2 --> Cannon-2
+- If you're happy (enough) with your catchrate during the first part of the night, do something like Cannon-1 --> Moat-2 --> Ballista-2 --> Cannon-2
 
 The rest if very subjective, depending on your setup and luck so far, and has been fuel for many debates. I assume that
 by now you've made a few runs and have a clear idea on what you want to focus on. I'll just add a small note on
@@ -307,7 +307,7 @@ in your run.
 
 ## Dawn phase: Collecting Dawn dust
 
-You’ll find three mice here : Monster of the Meteor, Night Guardian and Battering Ram (if not hunting with Moon/Crescent).
+You’ll find three mice here : Monster of the Meteor, Dawn Guardian and Battering Ram (if not hunting with Moon/Crescent).
 The damage mechanics stay the same at first, but each catch of the Monster will increase the damage of every mouse by
 an extra 100%. You can find a table detailing the damage per rage level [in the wiki][dawn-damage] .
 
@@ -375,10 +375,12 @@ Cheese (25 dawn dust each, Cheese Shop) in your inventory and ready to go.
 
 The Heart of the Meteor Mouse is weak to arcane traps, but pretty strong. Have no fear, though: after nine misses she
 will collapse in exhaustion, and your tenth hunt is a certain catch.
-Once you do catch her, you’ll be sent back to Daylight, and your hard earned Sunshine Cheese will automatically disarm.
+Once you do catch her, you’ll be sent back to where you were at Dawn, and your hard earned Sunrise Cheese will automatically disarm.
 She’ll also drop a Meteoric Core Fragment, which you can take to the Trapsmith to get the Meteor Prison Core trap.
 
 If you have any Sunrise Cheese left, you can sell them on the Marketplace (they usually go for a pretty good price).
+
+It's worth noting that in this phase, your wall will take no damage and your fort defenses (this includes the Mage Tower) have no effect.
 
 > Sounds grindy. How do I speed this up?
 >
