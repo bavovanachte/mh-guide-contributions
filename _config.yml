@@ -1,1 +1,9 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - fort-rox.md
+  - claw-shot-city.md
 theme: jekyll-theme-cayman
