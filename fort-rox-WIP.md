@@ -29,7 +29,7 @@ maintained in [github](https://github.com/bavovanachte/mh-guide-contributions/bl
 
 ## Summary:
 
-Fort Rox is the area in Varmint valley following Fort Rox and Gnawnian Express Station, and keeps with the Wild West theme.
+Fort Rox is the area in Varmint valley following Claw Shot City and Gnawnian Express Station, and keeps with the Wild West theme.
 You're building and upgrading a fort by day in order to properly defend it against hordes of mice by night.
 
 The area is really all about the fort upgrades. Even with better than average traps, you'll have some lousy catchrates
@@ -63,7 +63,8 @@ Aqua base in your possession. Anything better (Spellbook, Papyrus, Rift, ...) is
 Mice here are weak to Law-type traps.
 
 If you've bothered finishing Claw Shot City, you'll have the S.L.A.C. II in your posession.
-If you (like many other hunters) haven't, you have 2 main options:
+It's generally not considered worth the effort you put in, so if you (like many other hunters) haven't, you have 2 main
+options:
 
   - Plain old S.L.A.C. When choosing a charm to boost the catchrate, power seems to be the way to go (check [CRE][CRE])
   - ACRONYM. Wrong power type, I know. Still, without charms it gives a slightly higher catchrate than S.L.A.C..
@@ -80,9 +81,12 @@ Some numbers extracted from CRE (assuming Gouda, LGS, Aqua base and no charms):
 First part of the night is Shadow, second part is Arcane.
 
 - For Arcane, use your best setup. Assuming you haven't finished Living Garden, that would be ACRONYM.
-- Same for Shadow. If your best is the Clockapult of Time (or something weaker), you might want to
-  [check your catchrates][CRE] against ACRONYM (without charms, ACRONYM actually gets higher catch rates). If you have
-  a better shadow trap (Reaper's Perch for example), that's likely the better option.
+- Same for Shadow. If you're best Shadow trap is Reaper's Perch or better, use that one. If not, ACRONYM will normally
+  give you a similar catchrate compared to your strongest Shadow trap ([check your catchrates][CRE] to be sure).
+  If you weren't planning on getting Reaper's Perch anytime soon, I wouln't recommend getting it specifically for Fort
+  Rox. Hunting with ACRONYM instead gives you the advantage of not having to switch between Arcane and Shadow anyway.
+
+  Regardless of which trap you pick for Shadow phase, I'll refer to it in the rest of the guide as "your shadow trap".
 
 **Dawn**
 
@@ -126,7 +130,8 @@ get the first Ballista upgrade (this will significantly boost the awful catchrat
 > There are a couple of alternative sources for Meteorite Pieces that may be useful, depending on your financial situation:
 >
 >   - **Buying Meteorite Pieces from the Kings Cart** for 1 KC a piece. There isn't really a reliable way to get more
->     King's Credits, so this is not really a sustainable way of getting your materials.
+>     King's Credits, so this is not really a sustainable way of getting your materials. Also, you might want to save
+>     your credits for more valuable things in the Kings Cart.
 >   - **Buying Crescent/Moon from the Marketplace**: A fairly reliable way of getting your cheese and it means you'll
 >     only have to gather Meteorite Pieces for repairing the wall. Note that the average gold per hunt you get is not
 >     very high ([CRE][CRE] can calculate that for you), so it's still likely going to be a net loss goldwise
@@ -241,21 +246,21 @@ When you've collected upgrade materials during night, you'll be able to use thos
 the day phase. In this section, I'll briefly explain what the different upgrades are. For a more detailed list, see
 [the wiki][wiki-upgrades].
 
-|           | Howlite |  Bloodstone |
-|-----------|---------|-------------|
-| Ballista 1 | 1       | 0           |
-| Ballista 2 | 25      | 0           |
-| Ballista 3 | 100     | 20          |
-| Cannon 1  | 20      | 5           |
-| Cannon 2  | 30      | 15          |
-| Cannon 3  | 50      | 60          |
-| Moat 1    | 10      | 0           |
-| Moat 2    | 35      | 2           |
-| Moat 3    | 100     | 50          |
-| Wall 1    | 0       | 0           |
-| Wall 2    | 15      | 0           |
-| Wall 3    | 40      | 20          |
-| Wall 4    | 150     | 75          |
+|            | Howlite | Bloodstone | Description                                                      |
+|------------|---------|------------|------------------------------------------------------------------|
+| Ballista 1 | 1       | 0          | Decreases the power of Fort Rox Weremice by 50%.                 |
+| Ballista 2 | 25      | 0          | Provides a chance to instantly capture Fort Rox Weremice.        |
+| Ballista 3 | 100     | 20         | Instantly defeats the Nightmancer Mouse.                         |
+| Cannon 1   | 20      | 5          | Decreases the power of Fort Rox Cosmic Critters by 50%.          |
+| Cannon 2   | 30      | 15         | Provides a chance to instantly capture Fort Rox Cosmic Critters. |
+| Cannon 3   | 50      | 60         | Instantly defeats the Nightfire Mouse.                           |
+| Moat 1     | 10      | 0          | Reduces damage your wall receives by 1.                          |
+| Moat 2     | 35      | 2          | Reduces damage your wall receives by 2.                          |
+| Moat 3     | 100     | 50         | Reduces damage your wall receives by 3.                          |
+| Wall 1     | 0       | 0          | Maximum Health:  50                                              |
+| Wall 2     | 15      | 0          | Maximum Health:  100                                             |
+| Wall 3     | 40      | 20         | Maximum Health:  200                                             |
+| Wall 4     | 150     | 75         | Maximum Health:  350                                             |
 
 Generally, the first upgrades in a category require only (or mostly) Howlite, and as the upgrades become more powerful
 they also require Bloodstones. This matches with the fact that Bloodstones are scarce during the first part of night and
@@ -339,7 +344,8 @@ The Monster of the Meteor and Night Guardian mice drop Dawn Dust, which is used 
 > Sounds grindy. How do I speed this up?
 >
 > - **Marketplace**: If you have the gold for it, you don't really need to gather any dawn dust (except for the map
->   piece). Animatronic Bird, Silver Bolt and Sunrise cheese are all available on the Marketplace.
+>   piece). Animatronic Bird, Silver Bolt and Sunrise cheese are all available on the Marketplace and the trap parts
+>   are relatively cheap at the time of writing.
 > - **Baitkeep or Ultimate charms** will allow you to reduce the amount of Sunrise cheese you need if you use them on
 >   Heart of the Meteor. Not many hunters with the rank of Baron(ess) have any in their posession, though.
 > - You might take your chances with **less than 10 Sunrise cheese**. 10 will guarantee a catch, but each Sunrise
